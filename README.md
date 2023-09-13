@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/tuna-figankaplan-7b6a41206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuna-figankaplan-7b6a41206" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14356875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14356875" height="30" width="40" /></a>
 <a href="https://instagram.com/tunaaf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tunaaf_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tuna" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tunaaf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tuna" height="30" width="40" /></a>
 <a href="https://discord.gg/QkX2RdfZVD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QkX2RdfZVD" height="30" width="40" /></a>
 </p>
 
