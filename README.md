@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuna</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
+<img align="right" alt="Coding" width="400" padding-top="20px" src="https://www.pngkey.com/png/full/162-1627423_mas-software-engineer-hob-vacancy-computer-engineer-cartoon.png" </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunafgkn&label=Profile%20views&color=0e75b6&style=flat" alt="tunafgkn" /> </p>
 
