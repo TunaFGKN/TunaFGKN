@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunafgkn&label=Profile%20views&color=0e75b6&style=flat" alt="tunafgkn" /> </p>
 
-- 🔭 I’m currently working on [Gothic Fansub Project](https://github.com/TunaFGKN/GothicFansub)
+- 🔭 I’m currently working on [---](https://github.com/TunaFGKN/)
 
 - 🌱 I’m currently learning **Angular, React, Matlab**
 
