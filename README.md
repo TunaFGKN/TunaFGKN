@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [---](https://github.com/TunaFGKN/)
 
-- 🌱 I’m currently learning **Angular, React, Matlab**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **.NET**
 
